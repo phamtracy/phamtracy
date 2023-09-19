@@ -1,16 +1,13 @@
-### Hi there 👋
+## hi! nice to meet you!   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა <br/> 
 
-<!--
-**phamtracy/phamtracy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="550" height="350" src="https://github.com/tracympham/tracympham/blob/main/myMelody.gif">
 
-Here are some ideas to get you started:
+### a bit about me:
+- 🍓 my name is tracy! 
+- 🎧 undergrad at uw
+- 🍡 majoring in computer science 
+- 🍧 learning c++, java, & python
+- 🇻🇳 love traveling
+- 🍵 stay hydrated <br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     ૮꒰ ˶• ༝ •˶꒱ა  🧋  "૮₍ ˶•⤙•˶ ₎ა

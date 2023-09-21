@@ -8,6 +8,6 @@
 - 🍡 majoring in computer science 
 - 🍧 learning c++, java, & python
 - 🇻🇳 love traveling
-- 🍵 stay hydrated <br/> 
+- 🌊 stay hydrated <br/> 
 
      ૮꒰ ˶• ༝ •˶꒱ა  🧋  "૮₍ ˶•⤙•˶ ₎ა

@@ -6,8 +6,8 @@
 - 🍓 my name is tracy! 
 - 🎧 undergrad at uw
 - 🍡 majoring in computer science 
-- 🍧 learning c++, java, & python
-- 🇻🇳 love traveling
-- 🌊 stay hydrated <br/> 
+- 🍧 learning c++, java, python, html, and css
+- 🇻🇳 I love traveling
+- 🌊 reminder: drink water <br/> 
 
      ૮꒰ ˶• ༝ •˶꒱ა  🧋  "૮₍ ˶•⤙•˶ ₎ა
